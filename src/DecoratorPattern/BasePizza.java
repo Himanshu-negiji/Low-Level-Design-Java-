@@ -1,4 +1,5 @@
 package DecoratorPattern;
 
-public class BasePizza {
+public abstract class BasePizza {
+    public abstract int getCost();
 }

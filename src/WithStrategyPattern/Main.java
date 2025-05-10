@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
 
-        Vehicle vehicle = new SportsVehicle();
+        Vehicle vehicle = new OffRoadVehicle();
         System.out.println("object" + vehicle);
         vehicle.drive();
     }

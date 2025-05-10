@@ -1,4 +1,4 @@
-package TicTacToeDesign;
+package TicTacToeDesign.Model;
 
 public enum PieceType {
     X,
